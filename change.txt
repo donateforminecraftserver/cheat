@@ -15,7 +15,4 @@
 - fixed healthbar in dormant
 - fixed crashes with colorpickers
 - added health bar types
-- changed penetration crosshair
-- improved & changed logs
-- improved backtrack
-- fixed for last update
+
