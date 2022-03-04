@@ -12,7 +12,6 @@
 - improved resolver
 - removed resolver types
 - reworked bomb indicator
-- added time to defuse
 - fixed healthbar in dormant
 - fixed crashes with colorpickers
 - added health bar types
