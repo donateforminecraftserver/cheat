@@ -15,4 +15,3 @@
 - fixed healthbar in dormant
 - fixed crashes with colorpickers
 - added health bar types
-
