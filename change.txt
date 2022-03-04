@@ -1,4 +1,4 @@
-[22.02.2022] Update:
+[04.03.2022] Update:
 - reworked render
 - fixed skeletons
 - changed molotov, smoke timer.
