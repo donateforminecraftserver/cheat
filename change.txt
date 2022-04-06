@@ -1,17 +1,3 @@
-[04.03.2022] Update:
-- reworked render
-- fixed skeletons
-- changed molotov, smoke timer.
-- improved font type "pixel"
-- improved font type "anti-aliased"
-- reworked grenade warning
-- reworked grenade prediction
-- added dt settings
-- improved lag exploit (now work properly)
-- improved r8 cock time
-- improved resolver
-- removed resolver types
-- reworked bomb indicator
-- fixed healthbar in dormant
-- fixed crashes with colorpickers
-- added health bar types
+update log:
+[!]improved resolver
+[+]poka i do rsolver i chut ne obosralsya 🙂
