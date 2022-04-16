@@ -1,1 +1,3 @@
-update log: [13:30 ' 07.04.22] [!]improved animations [!]improved strafe [+]fixed prediction system
+update log: [13:30 ' 07.04.22] 
+[!]improved animations [!]improved strafe [+]fixed prediction system
+[!]improved animations [!]improved strafe [+]fixed prediction system
