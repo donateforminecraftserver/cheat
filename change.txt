@@ -1,9 +1,1 @@
-update log:
-[ ! ]improved resolver
-[ + ]poka i do rsolver i chut ne obosralsya
-[ + ]poka i do rsolver i chut ne obosralsya
-[ + ]poka i do rsolver i chut ne obosralsya
-[ + ]poka i do rsolver i chut ne obosralsya
-[ + ]poka i do rsolver i chut ne obosralsya
-[ + ]poka i do rsolver i chut ne obosralsya
-[ + ]poka i do rsolver i chut ne obosralsya
+update log: [13:30 ' 07.04.22] [!]improved animations [!]improved strafe [+]fixed prediction system
